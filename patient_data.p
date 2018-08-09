@@ -21,24 +21,24 @@ p10
 sS'uuid'
 p11
 g1
-ssS'3ed0e7e9-884a-4503-9d66-98575ef0a791'
+ssS'dc971672-d268-4081-b789-1079cafbb6d7'
 p12
 (dp13
 S'comment'
 p14
-Vg1 term spontaneous labour heslthy intact membranes contracting 5cm dilated
+V
 p15
 sS'first_name'
 p16
-Vpatient c
+VPt A
 p17
 sS'last_name'
 p18
-V25april 2018
+V7 August, 2018
 p19
 sS'age'
 p20
-V99
+V?
 p21
 sS'uuid'
 p22
@@ -65,286 +65,328 @@ p32
 sS'uuid'
 p33
 g23
-ssS'1c7ff4f5-083d-43da-b74f-2558d616303e'
+ssS'6996e2d5-1aa4-43ce-a6e8-ad4924994c49'
 p34
 (dp35
 S'comment'
 p36
-V
-p37
+g15
 sS'first_name'
+p37
+VPatient A
 p38
-Vpatient b	
-p39
 sS'last_name'
+p39
+V4 July, 2018
 p40
-V26 April 2018
-p41
 sS'age'
+p41
+V99
 p42
-V?
-p43
 sS'uuid'
-p44
+p43
 g34
 ssS'b0b5ad0d-2082-4f4f-86f3-8d48c659519d'
-p45
-(dp46
+p44
+(dp45
 S'comment'
-p47
+p46
 Vg1 term spontaneous labpur 4 cm intact
+p47
+sS'first_name'
 p48
-sS'first_name'
-p49
 Vpatient d
+p49
+sS'last_name'
 p50
-sS'last_name'
-p51
 V25 april 2018
+p51
+sS'age'
 p52
-sS'age'
+V99
 p53
-V99
+sS'uuid'
 p54
-sS'uuid'
+g44
+ssS'2dfc0da7-9f03-4e45-9ef3-6fd9acfec477'
 p55
-g45
-ssS'6996e2d5-1aa4-43ce-a6e8-ad4924994c49'
-p56
-(dp57
+(dp56
 S'comment'
+p57
+g15
+sS'first_name'
 p58
-g37
-sS'first_name'
+VTest
 p59
-VPatient A
+sS'last_name'
 p60
-sS'last_name'
+VTest
 p61
-V4 July, 2018
+sS'age'
 p62
-sS'age'
+V?
 p63
-V99
+sS'uuid'
 p64
-sS'uuid'
+g55
+ssS'1c7ff4f5-083d-43da-b74f-2558d616303e'
 p65
-g56
-ssS'b5f54f26-e022-4075-bf46-0ad9e68938e8'
-p66
-(dp67
+(dp66
 S'comment'
+p67
+g15
+sS'first_name'
 p68
-VG2, scheduled for CS due to previous scar, 2 mod contractions
+Vpatient b	
 p69
-sS'first_name'
+sS'last_name'
 p70
-Vpatient b
+V26 April 2018
 p71
-sS'last_name'
+sS'age'
 p72
-VApril 27 2018
+V?
 p73
-sS'age'
+sS'uuid'
 p74
-V?
+g65
+ssS'b5f54f26-e022-4075-bf46-0ad9e68938e8'
 p75
-sS'uuid'
-p76
-g66
-ssS'59e3b93f-d543-4768-b16d-8af6f453fe20'
+(dp76
+S'comment'
 p77
-(dp78
-S'comment'
+VG2, scheduled for CS due to previous scar, 2 mod contractions
+p78
+sS'first_name'
 p79
-VG2 in labour, 8cm cervical dilation, on file documented 2 strong contractions. Contractions noted starting at 3, 6, 10, 12, 17, 20, 25, 28 and 31 minutes. She is to deliver vaginally.
+Vpatient b
 p80
-sS'first_name'
+sS'last_name'
 p81
-VPt A
+VApril 27 2018
 p82
-sS'last_name'
+sS'age'
 p83
-VMay 23 2018
+V?
 p84
-sS'age'
+sS'uuid'
 p85
-V?
+g75
+ssS'59e3b93f-d543-4768-b16d-8af6f453fe20'
 p86
-sS'uuid'
-p87
-g77
-ssS'a3308911-9f7e-4478-8ce3-ad57d5bd5d75'
-p88
-(dp89
+(dp87
 S'comment'
-p90
-VG4 in labour, cervix 9cm dilated, contractions 3 strong, scheduled for CS due to CPD. Contractions noted at 2, 4, 6, 9, 11, 13.5, 15, 17.5 and 19. Horizontal placement of Tocopatch. There was a lot of maternal movement, she changed positions at 15minutes
-p91
+p88
+VG2 in labour, 8cm cervical dilation, on file documented 2 strong contractions. Contractions noted starting at 3, 6, 10, 12, 17, 20, 25, 28 and 31 minutes. She is to deliver vaginally.
+p89
 sS'first_name'
-p92
-VPt C
-p93
+p90
+VPt A
+p91
 sS'last_name'
-p94
+p92
 VMay 23 2018
-p95
+p93
 sS'age'
-p96
+p94
 V?
-p97
+p95
 sS'uuid'
-p98
-g88
-ssS'fd51cca0-f626-4876-bd90-14b868fbafce'
+p96
+g86
+ssS'a3308911-9f7e-4478-8ce3-ad57d5bd5d75'
+p97
+(dp98
+S'comment'
 p99
-(dp100
-g3
-VGravida 1 in latent phase of labour, was having mild contractions with lots of FM, times noted for UC the rest are due to FM.\u000aUC from 3.5 to 4 plus FM noted at the end of contraction.\u000aUC from 8 - 9 \u000aUC 16 - 17 plus FM at end of UC.\u000aUC 22 - 23
+VG4 in labour, cervix 9cm dilated, contractions 3 strong, scheduled for CS due to CPD. Contractions noted at 2, 4, 6, 9, 11, 13.5, 15, 17.5 and 19. Horizontal placement of Tocopatch. There was a lot of maternal movement, she changed positions at 15minutes
+p100
+sS'first_name'
 p101
-sg5
 VPt C
 p102
-sg7
-VMay 24 2018
+sS'last_name'
 p103
-sg9
-V?
-p104
-sg11
-g99
-ssS'e97ebf8d-0bcd-485a-9d0a-f20a374880fa'
-p105
-(dp106
-S'comment'
-p107
-Vg1 36weeks 2cm
-p108
-sS'first_name'
-p109
-Vpatient c
-p110
-sS'last_name'
-p111
-Vapril 26 2018
-p112
-sS'age'
-p113
-V99
-p114
-sS'uuid'
-p115
-g105
-ssS'9c104e7a-2c82-42dd-9ad2-18204a8796d4'
-p116
-(dp117
-g79
-VRecorded in file 3 mod contractions, G1 in labour cervix fully dilated on Magnesium Sulphate. Contractions noted at 1.5, 5, 11.5, 13.5, 16.5, 21, 23 and 26 minutes, the rest of the peaks are due to fetal movements. Tocopatch placed horizontally.
-p118
-sg81
-VPt B
-p119
-sg83
 VMay 23 2018
-p120
-sg85
-V?
-p121
-sg87
-g116
-ssS'bd7c6fcd-43b0-4720-9bba-78f5bceec421'
-p122
-(dp123
-S'comment'
-p124
-Vhealthy, G2, with 1 previous scar in labour, cervix 7 cm dilated, contractions noted at 5, 11 17, 23 and 30 minutes.
-p125
-sS'first_name'
-p126
-VPt C
-p127
-sS'last_name'
-p128
-VMay 21 2018
-p129
+p104
 sS'age'
-p130
+p105
 V?
-p131
+p106
 sS'uuid'
-p132
-g122
-ssS'86b51353-01f3-429c-abbb-5bd828f5f7b1'
-p133
-(dp134
+p107
+g97
+ssS'fd51cca0-f626-4876-bd90-14b868fbafce'
+p108
+(dp109
 g3
-VGravida 1 in labour, 8cm cervical dilation, for CS due to CPD.\u000aAt 2 UC started lasted 55 seconds very intense but still felt mild UC for 30 seconds before it ended.\u000aAt end of 4mins, UC started ended at 6 mins,\u000aFM felt between 6 and 7 mins, other FMs not felt clearly\u000aUC 8 -9.5\u000aUC 10.5 -13, this contraction started at 10.5 then reached it's peak, then continued to strengthen til it peaked again then started to relax and ended on 13.\u000aUC 15 - 16.5\u000aUC 18.5 - 20\u000aUC 20.5 - 23, at 22 FM felt plus maternal bearing down\u000aat 23 to 25 FM felt\u000aUC 25 plus maternal bearing down UC ended on 27.5\u000aUC starts at the end of 27.5 and ends on 29
-p135
+VGravida 1 in latent phase of labour, was having mild contractions with lots of FM, times noted for UC the rest are due to FM.\u000aUC from 3.5 to 4 plus FM noted at the end of contraction.\u000aUC from 8 - 9 \u000aUC 16 - 17 plus FM at end of UC.\u000aUC 22 - 23
+p110
 sg5
-VPt B
-p136
+VPt C
+p111
 sg7
 VMay 24 2018
-p137
+p112
 sg9
 V?
-p138
+p113
 sg11
-g133
-ssS'7fb6e4f2-5078-4d4a-9051-d4df8302088b'
+g108
+ssS'3ed0e7e9-884a-4503-9d66-98575ef0a791'
+p114
+(dp115
+S'comment'
+p116
+Vg1 term spontaneous labour heslthy intact membranes contracting 5cm dilated
+p117
+sS'first_name'
+p118
+Vpatient c
+p119
+sS'last_name'
+p120
+V25april 2018
+p121
+sS'age'
+p122
+V99
+p123
+sS'uuid'
+p124
+g114
+ssS'e97ebf8d-0bcd-485a-9d0a-f20a374880fa'
+p125
+(dp126
+S'comment'
+p127
+Vg1 36weeks 2cm
+p128
+sS'first_name'
+p129
+Vpatient c
+p130
+sS'last_name'
+p131
+Vapril 26 2018
+p132
+sS'age'
+p133
+V99
+p134
+sS'uuid'
+p135
+g125
+ssS'9c104e7a-2c82-42dd-9ad2-18204a8796d4'
+p136
+(dp137
+g88
+VRecorded in file 3 mod contractions, G1 in labour cervix fully dilated on Magnesium Sulphate. Contractions noted at 1.5, 5, 11.5, 13.5, 16.5, 21, 23 and 26 minutes, the rest of the peaks are due to fetal movements. Tocopatch placed horizontally.
+p138
+sg90
+VPt B
 p139
-(dp140
-g79
-VPrimgravida, healthy, 4cm cervical dilation, recorder on file 3 strong contractions, contractions noted at 6 and 20.5 mins. Tocopatch horizontal placement.
-p141
-sg81
-VPt B	
-p142
-sg83
-VMay 21 2018
-p143
-sg85
+sg92
+VMay 23 2018
+p140
+sg94
 V?
+p141
+sg96
+g136
+ssS'bd7c6fcd-43b0-4720-9bba-78f5bceec421'
+p142
+(dp143
+S'comment'
 p144
-sg87
-g139
-ssS'deb48d07-b0ec-472f-9770-03a027146fe8'
+Vhealthy, G2, with 1 previous scar in labour, cervix 7 cm dilated, contractions noted at 5, 11 17, 23 and 30 minutes.
 p145
-(dp146
-g79
-VHealthy 40wk gestation age, gravida 5, recorded in file 2 mild contractions, 3CM cervix. Contractions noted at 7mins, 13 mins, 17 mins and 24 min. Tocopatch horizontal placement.
+sS'first_name'
+p146
+VPt C
 p147
-sg81
-VPt A
+sS'last_name'
 p148
-sg83
 VMay 21 2018
 p149
-sg85
-V?
-p150
-sg87
-g145
-ssS'e1a7551f-cefb-461c-98b5-de683969074b'
-p151
-(dp152
-S'comment'
-p153
-Vg1 term healthy 2cm dilated
-p154
-sS'first_name'
-p155
-Vpatient a
-p156
-sS'last_name'
-p157
-Vapril 27 2018
-p158
 sS'age'
-p159
-V99
-p160
+p150
+V?
+p151
 sS'uuid'
+p152
+g142
+ssS'86b51353-01f3-429c-abbb-5bd828f5f7b1'
+p153
+(dp154
+g3
+VGravida 1 in labour, 8cm cervical dilation, for CS due to CPD.\u000aAt 2 UC started lasted 55 seconds very intense but still felt mild UC for 30 seconds before it ended.\u000aAt end of 4mins, UC started ended at 6 mins,\u000aFM felt between 6 and 7 mins, other FMs not felt clearly\u000aUC 8 -9.5\u000aUC 10.5 -13, this contraction started at 10.5 then reached it's peak, then continued to strengthen til it peaked again then started to relax and ended on 13.\u000aUC 15 - 16.5\u000aUC 18.5 - 20\u000aUC 20.5 - 23, at 22 FM felt plus maternal bearing down\u000aat 23 to 25 FM felt\u000aUC 25 plus maternal bearing down UC ended on 27.5\u000aUC starts at the end of 27.5 and ends on 29
+p155
+sg5
+VPt B
+p156
+sg7
+VMay 24 2018
+p157
+sg9
+V?
+p158
+sg11
+g153
+ssS'7fb6e4f2-5078-4d4a-9051-d4df8302088b'
+p159
+(dp160
+g88
+VPrimgravida, healthy, 4cm cervical dilation, recorder on file 3 strong contractions, contractions noted at 6 and 20.5 mins. Tocopatch horizontal placement.
 p161
-g151
+sg90
+VPt B	
+p162
+sg92
+VMay 21 2018
+p163
+sg94
+V?
+p164
+sg96
+g159
+ssS'deb48d07-b0ec-472f-9770-03a027146fe8'
+p165
+(dp166
+g88
+VHealthy 40wk gestation age, gravida 5, recorded in file 2 mild contractions, 3CM cervix. Contractions noted at 7mins, 13 mins, 17 mins and 24 min. Tocopatch horizontal placement.
+p167
+sg90
+VPt A
+p168
+sg92
+VMay 21 2018
+p169
+sg94
+V?
+p170
+sg96
+g165
+ssS'e1a7551f-cefb-461c-98b5-de683969074b'
+p171
+(dp172
+S'comment'
+p173
+Vg1 term healthy 2cm dilated
+p174
+sS'first_name'
+p175
+Vpatient a
+p176
+sS'last_name'
+p177
+Vapril 27 2018
+p178
+sS'age'
+p179
+V99
+p180
+sS'uuid'
+p181
+g171
 ss.
